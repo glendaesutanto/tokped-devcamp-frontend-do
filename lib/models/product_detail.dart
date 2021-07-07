@@ -1,15 +1,15 @@
 part of 'models.dart';
 
 class ProductDetail {
-  String id;
-  String address;
-  String email;
-  String password;
+  int id;
+  String name;
+  double price;
+  int count;
 
   ProductDetail({
-    this.id = "",
-    @required this.address,
-    @required this.password,
-    @required this.email,
+    @required this.id,
+    @required this.name,
+    @required this.price,
+    @required this.count,
   });
 }

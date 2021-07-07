@@ -1,7 +1,7 @@
 part of 'models.dart';
 
 class DropPointDetail {
-  String id;
+  int id;
   String address;
   String email;
   String password;
@@ -9,7 +9,7 @@ class DropPointDetail {
   double longitude;
 
   DropPointDetail({
-    this.id = "",
+    @required this.id,
     @required this.address,
     @required this.password,
     @required this.email,
