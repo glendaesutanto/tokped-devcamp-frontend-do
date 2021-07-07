@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003764949741",
+    "project_id": "tokped-devcamp-16",
+    "storage_bucket": "tokped-devcamp-16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003764949741:android:d0b6f9a02fad5cd38822e4",
+        "android_client_info": {
+          "package_name": "com.tokopedia.droppoint.tokped_devcamp_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003764949741-v5o04l4ss09dcg6dfh5qbmt9u3obnvau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhtNA0z0C50ayvnAzj5GH_7WLP6Ldjf4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003764949741-v5o04l4ss09dcg6dfh5qbmt9u3obnvau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
